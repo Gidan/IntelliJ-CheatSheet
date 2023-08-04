@@ -27,6 +27,5 @@ All keyboard shortcuts are currently for Windows.
 Type these in the editor as text shortcuts.
 | Intent | Shortcut |
 |:---|:---|
-| sout |`System.out.println();`|
-| psvm | `public static void main(String[] args){}` |
-| main | `public static void main(String[] args){}` |
+| `System.out.println();` | `sout` |
+| `public static void main(String[] args){}` | `psvm` or `main` |

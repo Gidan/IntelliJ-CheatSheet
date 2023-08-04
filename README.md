@@ -8,12 +8,12 @@ All keyboard shortcuts are currently for Windows.
 
 ## Editing :pencil2:
 | Intent | Shortcut | Notes |
-|:---|:---|:---|
-| Move line up | `Shift-Alt-Up` |
-| Move line down | `Shift-Alt-Down` |
-| Delete line | `Ctrl-y` | 
-| Duplicate line | `Ctrl-d` |
-| Reformat code | `Ctrl-Alt-l` | If nothing is selected, the whole file is reformatted. Otherwise only the selection will be reformatted. |
+| --- | --- | --- |
+| Move line up | `Shift-Alt-Up` ||
+| Move line down | `Shift-Alt-Down` ||
+| Delete line | `Ctrl-y` ||
+| Duplicate line | `Ctrl-d` ||
+| Reformat code | `Ctrl-Alt-l` | If nothing is selected, the whole file is reformatted. |
 | Optimize imports | `Ctrl-Alt-o` |
 | Start new Line | `Shift-Enter` | To be used if the cursor is not at the end of the current line. |
 | Show clipboard entries | `Ctrl-Shift-V` |

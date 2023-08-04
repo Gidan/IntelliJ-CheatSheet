@@ -8,7 +8,7 @@ All keyboard shortcuts are currently for Windows.
 
 ## Editing :pencil2:
 | Intent | Shortcut | Notes |
-|:---|:---:|:---|
+|:---|:---|:---|
 | Move line up | `Shift-Alt-Up` |
 | Move line down | `Shift-Alt-Down` |
 | Delete line | `Ctrl-y` | 
@@ -17,11 +17,17 @@ All keyboard shortcuts are currently for Windows.
 | Optimize imports | `Ctrl-Alt-o` |
 | Start new Line | `Shift-Enter` | To be used if the cursor is not at the end of the current line. |
 | Show clipboard entries | `Ctrl-Shift-V` |
-| Generate | `Alt+Ins` | Shows a context menu that allows to generate code (i.e. Getters, Setters, ...) | 
+| Generate | `Alt-Ins` | Shows a context menu that allows to generate code (i.e. Getters, Setters, ...) | 
+| Comment lines | `Ctrl-/` |
+
+## Code completion
+| Intent | Shortcut | 
+|:---|:---|
+| Show suggestions | `Ctrl-Space` |
 
 ## Navigation :mag:
 | Intent | Shortcut |
-|:---|:---:|
+|:---|:---|
 | Back | `Ctrl-Alt-Left` |
 | Forward | `Ctrl-Alt-Right` |
 | Go to line |`Ctrl-g` |
@@ -35,7 +41,7 @@ All keyboard shortcuts are currently for Windows.
 
 ## Refactoring
 | Intent | Shortcut |
-|:---|:---:|
+|:---|:---|
 | Rename |`Shift-F6`|
 | Extract local variable | `Ctlr-Alt-v` |
 | Extract field | `Ctrl-Alt-f` |

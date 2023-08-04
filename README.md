@@ -17,7 +17,7 @@ All keyboard shortcuts are currently for Windows.
 ## Navigation in a File
 | Intent | Shortcut |
 |:---|:---:|
-|Go to line|`Ctrl-g`|
+| Go to line |`Ctrl-g`|
 | Search in file | `Ctrl-f` |
 | Search and Replace in file | `Ctrl-r` |
 
@@ -34,3 +34,8 @@ Type these in the editor as text shortcuts.
 |:---|:---|
 | `System.out.println();` | `sout` |
 | `public static void main(String[] args){}` | `psvm` or `main` |
+
+## IDE
+| Intent | Shortcut |
+|:---|:---|
+| Open Terminal | `Alt-f12` |

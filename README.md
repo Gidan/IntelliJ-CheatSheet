@@ -4,17 +4,22 @@ All keyboard shortcuts are currently for Windows.
 
 > Disclaimer: This is based on personal experience and should not be taken as an official advice.
 
-## Common
+## Editing
 | Intent | Shortcut |
 |:---|:---:|
-| Search in file | `Ctrl-f` |
-| Search and Replace in file | `Ctrl-r` |
-| Reformart file | `Ctrl-Alt-l` |
+| Move line up | `Shift-Alt-Up` |
+| Move line down | `Shift-Alt-Down` |
+| Delete line | `Ctrl-y` |
+| Duplicate line | `Ctrl-d` |
+| Reformat code | `Ctrl-Alt-l` |
+| Optimize imports | `Ctrl-Alt-o` |
 
 ## Navigation in a File
 | Intent | Shortcut |
 |:---|:---:|
 |Go to line|`Ctrl-g`|
+| Search in file | `Ctrl-f` |
+| Search and Replace in file | `Ctrl-r` |
 
 ## Refactoring
 | Intent | Shortcut |

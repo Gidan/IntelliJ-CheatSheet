@@ -7,17 +7,17 @@ All keyboard shortcuts are currently for Windows.
 > Disclaimer: This is based on personal experience and should not be taken as an official advice.
 
 ## Editing :pencil2:
-| Intent | Shortcut | Notes |
-| --- | --- | --- |
-| Move line up | `Shift-Alt-Up` ||
-| Move line down | `Shift-Alt-Down` ||
-| Delete line | `Ctrl-y` ||
-| Duplicate line | `Ctrl-d` ||
-| Reformat code | `Ctrl-Alt-l` | If nothing is selected, the whole file is reformatted. |
+| Intent | Shortcut | 
+| --- | --- | 
+| Move line up | `Shift-Alt-Up` |
+| Move line down | `Shift-Alt-Down` |
+| Delete line | `Ctrl-y` |
+| Duplicate line | `Ctrl-d` |
+| Reformat code | `Ctrl-Alt-l` | 
 | Optimize imports | `Ctrl-Alt-o` |
-| Start new Line | `Shift-Enter` | To be used if the cursor is not at the end of the current line. |
+| Start new Line | `Shift-Enter` | 
 | Show clipboard entries | `Ctrl-Shift-V` |
-| Generate | `Alt-Ins` | Shows a context menu that allows to generate code (i.e. Getters, Setters, ...) | 
+| Generate code | `Alt-Ins` |
 | Comment lines | `Ctrl-/` |
 
 ## Code completion
